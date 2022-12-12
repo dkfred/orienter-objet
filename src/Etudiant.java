@@ -1,7 +1,7 @@
 public class Etudiant {
     String nom = "Efrakata";
     String prenom = "choupette";
-    String matricule = "dormeur";
+    String matricule = "kia-32-23";
     Integer AGE= 27 ;
     String Ville = "Douala";
     String sexe = "M";
